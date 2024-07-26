@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Deploy test of József Simco for Conzylum Products. 
+         Deploy test of József Simco for Conzylum Products with a simple Github repo. 
         </p>
         <a
           className="App-link"
